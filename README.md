@@ -13,6 +13,13 @@ https://github.com/microsoft/unilm/blob/master/YOCO/yoco/models/decoder/yoco.py!
 
 ![image](https://github.com/jinuk0211/yoco_-youonlycacheonce-/assets/150532431/ad3c547f-9ccb-4fdf-8946-7ef5cadeea3b)
 
+self 디코더
+------------
+cross 디코더를 위한 global kv cache 생성
+![image](https://github.com/jinuk0211/yoco_-youonlycacheonce-/assets/150532431/5ccfd4d3-5d75-4663-97c7-f35f545b74cd)
+
+cross 디코더 
+--------------------
 ![image](https://github.com/jinuk0211/yoco_-youonlycacheonce-/assets/150532431/7625824a-7e62-4b5c-b231-c8f7327d34e1)
 
 The Parallel Representation The gated retention is defined as:
